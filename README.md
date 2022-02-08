@@ -2,7 +2,7 @@
 
 I'm a front-end developer student in Develhope with a past as product designer and an innate love for technologies.
 - 🌱 I’m currently learning the framework Angular
-- 🔭 I’m currently working with my class team to replicate a website    
+- 🔭 I’m currently working with my class team to replicate a website
 &nbsp;  
 &nbsp;  
 
@@ -23,6 +23,10 @@ I'm a front-end developer student in Develhope with a past as product designer a
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;  
+&nbsp;  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-tagliareni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;  
 &nbsp;  
 
