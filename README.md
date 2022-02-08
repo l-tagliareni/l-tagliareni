@@ -25,10 +25,10 @@ I'm a front-end developer student in Develhope with a past as product designer a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;  
 &nbsp;  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-tagliareni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Stats card](https://github-readme-stats.vercel.app/api/top-langs/?username=l-tagliareni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;  
 &nbsp;  
-
+-->
 ## 📫 How to reach me
 - [luciatagliareni](https://www.linkedin.com/in/luciatagliareni/) on LinkedIn
