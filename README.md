@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I'm a front-end developer student in Develhope with a past as product designer and an innate love for technologies.
-- 🌱 I’m currently learning the framework Angular
-- 🔭 I’m currently working with my class team to replicate a website: https://github.com/Valexy6/Pancakeswap-Angular
+I'm a front-end developer with a past as product designer and an innate love for technologies.
 &nbsp;  
 &nbsp;  
 
